@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on automation in Healthcare
+- 🌱 I’m currently learning AI
+- 👯 I’m looking to collaborate on AI automation and conversational AI
+- 😄 Pronouns: He/His
+
+
+
 <!--
 **ihealthcareltd/ihealthcareltd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
